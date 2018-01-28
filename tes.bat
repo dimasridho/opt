@@ -1,0 +1,1 @@
+cpuminer-sse2.exe -a lyra2zoin -o stratum+tcp://zoi-pool3.chainsilo.com:3032 -u ignkuu.user1 -p x -t 1
